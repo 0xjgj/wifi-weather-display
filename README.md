@@ -116,6 +116,3 @@ To add the program to GitHub:
 - If the screen lights up but does not show text, check the five signal wires: GPIO18, GPIO23, GPIO4, GPIO27, and GPIO26.
 - Do not publish old code, screenshots, photos, or Git history that includes a personal location, Wi-Fi name, Wi-Fi password, or coordinates.
 
-## License
-
-You may add a license later if you would like other people to reuse or modify this project.
